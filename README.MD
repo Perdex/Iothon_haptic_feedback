@@ -4,7 +4,7 @@ This software gives real-time haptic feedback to athletes from a video stream. I
 
 When the player strikes, the haptic feedback sensors gives an impulse to the player's joint, if the joint has been in a nonoptimal position. So, the player can improve his/her stroking technique without stopping the game.
 
-This is made possible by using AR skeleton tracking, LTE-M networks and IoT device with haptic feedback sensors.
+This is made possible by using AR skeleton tracking, NB-IoT networks and IoT device with haptic feedback sensors.
 
 The same technique could also be applied to other sports such as golf, dancing, boxing, wall climbing etc.
 
@@ -64,7 +64,7 @@ The software consists of 3 different parts.
     * Python3
 * Haptic Feedback IoT
     * Arduino xxx
-    * IoT Sim card: LTE-M
+    * IoT Sim card: NB-IoT
     * ...
 
 ## Vision
