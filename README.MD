@@ -8,6 +8,12 @@ This is made possible by using AR skeleton tracking, LTE-M networks and IoT devi
 
 The same technique could also be applied to other sports such as golf, dancing, boxing, wall climbing etc.
 
+## Motivation
+
+- We wanted to show that AR is more than added visual elements.
+- We wanted to make a device that has proper hardware 
+- We wanted to create something actually useful right now
+
 ## Description
 
 The software gives feedback from the badminton strokes by using haptic feedback sensors. To start using this application, set the camera phone towards the badminton court. Place the haptic feedback sensors to your arm.
@@ -63,13 +69,13 @@ The software consists of 3 different parts.
 
 ## Vision
 
-The technique trainings of sports have been dependent on professional trainers for decades. We really think that this idea could made technique training possible for everyone with truly small expenses. The potential market is huge.
+The technique training of sports has been dependent on professional trainers for decades. We really think that this idea could make technique training possible for everyone with truly small expenses. The potential market is huge.
 
 In addition, the live haptic feedback is something that we have not seen anyone to do before.
 
-If we would have more time than 48 hours, we would add more stroke models and make the hapti feedback sensor to be smaller.
+If we would have more time than 48 hours, we would add more stroke models and make the haptic feedback sensor to be smaller.
 
-If you are interested of the idea, feel free to contact us. We are more than happy to share our vision.
+If you are interested in the idea, feel free to contact us. We are more than happy to share our vision.
 
 ## Info
 
